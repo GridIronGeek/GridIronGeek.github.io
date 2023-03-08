@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://GridIronGeek.github.io/sitemap.xml
